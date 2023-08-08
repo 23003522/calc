@@ -157,11 +157,11 @@ h1{
 
 ## OUTPUT:
 
-![OUTPUT](./out.png)
+![OUTPUT](out.png)
 
 ## HTML VALIDATOR:
 
-![HTMLVALIDATOR](./valid.png)
+![HTMLVALIDATOR](valid.png)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
