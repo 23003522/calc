@@ -157,11 +157,13 @@ h1{
 
 ## OUTPUT:
 
-![OUTPUT](out.png)
+![out](https://github.com/23003522/calc/assets/138849213/ceecc555-1a7e-4ea3-b14f-9321ecbd0775)
+
 
 ## HTML VALIDATOR:
 
-![HTMLVALIDATOR](valid.png)
+![valid](https://github.com/23003522/calc/assets/138849213/1ce881b1-4f01-4de6-8883-5ebabde02e62)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
